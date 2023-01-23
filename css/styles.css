@@ -1,0 +1,19 @@
+/* 
+
+Основной фон белый background: #FFFFFF; 
+Фон серый CLOUD #F4F4FD
+Фон темно синий NAVY BLUE #2E2F42
+
+Цвет текста SLATE #434455
+Цвет лого синий IRIS #4D5AE5
+
+*/
+
+/* Селекторы тега */
+
+body {
+    background-color: #FFFFFF;
+}
+
+
+/* Селекторы класса */
