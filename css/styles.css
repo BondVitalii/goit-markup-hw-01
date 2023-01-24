@@ -1,3 +1,49 @@
+:root {
+/* text colors (txt-cl) */
+
+
+/* background-colors (bg-cl) */
+
+--basic-bg-cl: #FFFFFF
+--secondary-bg-cl: #2e2f42
+--third-grey-bg-cl: #f4f4fd
+
+}
+
+/* Сommon styles */
+/* body {
+    background-color: var(--basic-bg-cl);
+} */
+
+/* Header section */
+
+/* Hero section */
+.hero {
+    background-color: var(--secondary-bg-cl);
+}
+
+/* About us section */
+
+/* Benefits section */
+
+/* Team section */
+
+/* Footer section */
+
+
+
+
+/* Селекторы тега */
+
+/* body {
+    background-color: #FFFFFF;
+} */
+
+/* Селекторы класса */
+
+
+
+
 /* 
 Основной фон белый background: #FFFFFF; 
 Фон серый CLOUD #F4F4FD
@@ -19,46 +65,3 @@
 	--color-navy-blue-modal: #2e2f42;
 	--color-grey: #2e2f42;
 } */
-
-:root {
-    /* text colors (txt-cl) */
-
-
-    /* background-colors (bg-cl) */
-
-    --basic-bg-cl: #FFFFFF
-    --secondary-bg-cl: #2e2f42
-    --third-grey-bg-cl: #f4f4fd
-
-
-}
-
-/* Сommon styles */
-body {
-    background-color: var(--basic-bg-cl);
-}
-
-/* Hero section */
-.hero {
-    background-color: var(--secondary-bg-cl);
-    
-}
-
-/* About us section */
-
-/* Benefits section */
-
-/* Team section */
-
-/* Footer section */
-
-
-
-
-/* Селекторы тега */
-
-/* body {
-    background-color: #FFFFFF;
-} */
-
-/* Селекторы класса */
