@@ -1,19 +1,28 @@
 :root {
- /* text colors (txt-cl) */
+  /* text colors (txt-cl) */
+  --basic-txt-color: #2e2f42
 
- /* background-colors (bg-cl) */
+  /* background-colors (bg-cl) */
+  --basic-bg-cl: #ffffff
+  --secondary-bg-cl: #2e2f42
+  --third-grey-bg-cl: #f4f4fd
 
- --basic-bg-cl: #ffffff
- --secondary-bg-cl: #2e2f42
- --third-grey-bg-cl: #f4f4fdf 
+  /* fonts */
+  --basic-font: Roboto, sans-serif;
+  --secondary-font: Raleway, sans-serif;
 }
 
+
+
 /* Сommon styles */
+body {
+	background-color: var(--basic-bg-cl)
+}
 
 
 /* Header section */
 
-/* Hero section */
+/* Hero */
 .hero {
  background-color: var(--secondary-bg-cl);
 }
@@ -26,16 +35,8 @@
 
 /* Footer section */
 
-
-
-
 /* Селекторы тега */
 
-/* body {
-    background-color: #FFFFFF;
-} */
-
-/* Селекторы класса */
 
 
 
