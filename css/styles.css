@@ -1,25 +1,21 @@
 :root {
-/* text colors (txt-cl) */
+ /* text colors (txt-cl) */
 
+ /* background-colors (bg-cl) */
 
-/* background-colors (bg-cl) */
-
---basic-bg-cl: #FFFFFF
---secondary-bg-cl: #2e2f42
---third-grey-bg-cl: #f4f4fd
-
+ --basic-bg-cl: #ffffff
+ --secondary-bg-cl: #2e2f42
+ --third-grey-bg-cl: #f4f4fdf 
 }
 
 /* Сommon styles */
-/* body {
-    background-color: var(--basic-bg-cl);
-} */
+
 
 /* Header section */
 
 /* Hero section */
 .hero {
-    background-color: var(--secondary-bg-cl);
+ background-color: var(--secondary-bg-cl);
 }
 
 /* About us section */
